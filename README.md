@@ -52,4 +52,4 @@ An Android application built with **Jetpack Compose**, allowing users to explore
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/marvel-heroes-app.git
+   git clone https://github.com/Elbara12/Marvel-heroes-app.git
